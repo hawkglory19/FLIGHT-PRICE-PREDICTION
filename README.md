@@ -13,9 +13,9 @@
 ## Demo
 Link: [https://flight-price-prediction-pooja.herokuapp.com/](https://flight-price-prediction-pooja.herokuapp.com/)
 
-![](https://drive.google.com/file/d/1dwSjEZWDPpNNWvpSD82_dSEOHCDbjP1_/view?usp=sharing)
+![](https://i.imgur.com/Ij4cVyo.png)
 
-![](https://i.imgur.com/p0aeL6c.png)
+![](https://i.imgur.com/WFw2Z1O.png)
 
 ## Overview
 This is a Flask web app which predicts fare of Flight ticket.
