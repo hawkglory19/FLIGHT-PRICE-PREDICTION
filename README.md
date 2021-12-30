@@ -13,7 +13,7 @@
 ## Demo
 Link: [https://flight-price-prediction-pooja.herokuapp.com/](https://flight-price-prediction-pooja.herokuapp.com/)
 
-![](https://i.imgur.com/R1g2wvC.png)
+![](https://drive.google.com/file/d/1dwSjEZWDPpNNWvpSD82_dSEOHCDbjP1_/view?usp=sharing)
 
 ![](https://i.imgur.com/p0aeL6c.png)
 
